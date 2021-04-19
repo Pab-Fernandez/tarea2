@@ -1,0 +1,16 @@
+Consultas clase 2:
+
+Aspectos de posicionamiento y tamaños. 
+
+Cómo citar una <section> en CSS
+siendo que id es con "#" y class con ".". Se puede hacer con ambas: "<section id=popopo">" o "<section  class=popop". 
+si usan html5 pone directamente el formato
+"viewport" es para que tenga posiblidad de visualizarse en dispositivos móviles. 
+se pueden dar estilo a varios elementos separándolos con "," 
+Flexbox es de lo más improtante en CSS. 
+
+Sobre posicionamiento: 
+Absolute. no se mueve. herramienta "calc" se usa sólo en absolute. Es para hacer cosas exactas. 
+
+   
+

@@ -1,0 +1,119 @@
+#frum {
+    align-items: center 1400px;
+    width: 1400px;
+    margin: 0px auto;  
+   display: flex;
+   
+    
+}
+.frontis{
+    width: 700px;
+    height: 350px;
+    margin: 0px auto;
+    border: 0px
+}
+#título {
+    height: 350px;
+    width: 1400px;
+    margin: 0px auto;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 30px;
+    background-image: url("fondito2.jpg");
+    background-color: rgba(61, 60, 50, 0.959);
+    text-align: left;
+    text-shadow: 2px 2px rgb(197, 129, 74);
+    color:rgb(241, 224, 202);
+    font-size: 78pt;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: italic;
+    
+    }
+#subtítulo1 {
+    margin-top: 0px;
+    margin: 0px auto;
+    margin-bottom: 0px;
+    width: 1400px;
+    background-color: tan;
+    text-align: center;
+    color:rgb(83, 74, 24); 
+    font-size: 30pt;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#Barrita-amorosa {
+display: flex;
+width: 1365px;
+height: 45px;
+margin: 0px auto;
+Border: 0px rgba(202, 153, 97, 0.925);
+background-color: rgba(231, 218, 222, 0.877);
+}
+.li1 {
+    color: rgb(187, 119, 42);
+    font-size: 15pt;
+    font-family: sans-serif;
+    display: inline-block; 
+    padding-top: 15px;
+    }
+main { 
+    width:1400;
+    margin: 0px auto;
+    color:rgb(0, 0, 0);
+    background-image: url("white-brick-wall.jpg");
+    background-color: palegoldenrod;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;    
+}
+section {
+    display: flex;
+}
+#h3ad{
+    font-size-adjust: initial;
+    font-family:"Helvetica";
+    font-weight: bold;
+    color: teal;
+}
+#barritasinamor{
+    margin: 0px ;
+    margin-bottom:0px;
+    width:150px;
+    height:400px;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 12pt;
+    background-color: rgb(248, 231, 204) ;
+    color:teal;
+    font-weight: bold;
+    font-family:cursive;
+}
+#imaagen
+{
+height:400px;
+width:400px;
+
+}
+#tazaoso
+{
+    height:400px;
+    width:400px;
+    margin-left: 10px;
+    
+}
+#cejas {
+    height:400px;
+    width:400px;
+    margin-left: 10px;
+}
+
+footer  {
+width: 1400px;
+margin: 0px auto;
+text-align: center;
+color:teal;
+font-style: italic;
+font-size: 20pt;
+font-family: "Arial";
+
+}
